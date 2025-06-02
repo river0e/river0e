@@ -43,7 +43,7 @@ Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de 
 
 - 📫 **Email:** mj.castro.rivero@gmail.com  
 - 🌍 [Portafolio](https://river0e.github.io/portfolio_presentacion_MJ_Castro/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin/) *(ajústalo si tienes)*
+- 💼 [LinkedIn](www.linkedin.com/in/maria-j-castro-rivero-3ab027316) 
 
 ---
 

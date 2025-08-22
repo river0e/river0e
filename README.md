@@ -9,7 +9,7 @@
 Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la tecnología, los viajes ✈️ y descubrir nuevas metas personales y profesionales.
 
 🔧 Me estoy formando en:
-`Java` • `HTML5` • `CSS3` • `Terraform` • `Azure` • `Git`
+`Java` • `Python` • `HTML5` • `CSS3` • `Terraform` • `Azure` • `Git`
 
 💼 Experiencia previa en:
 - Infraestructura Cloud (prácticas con Terraform & Azure)

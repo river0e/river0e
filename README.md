@@ -9,13 +9,7 @@
 Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la tecnología, los viajes ✈️ y descubrir nuevas metas personales y profesionales.
 
 🔧 Me estoy formando en:  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`Java` • `Python` • `HTML5` • `CSS3` • `Terraform` • `Azure` • `Git`
 
 💼 Experiencia previa en:
 - Infraestructura Cloud (prácticas con Terraform & Azure)
@@ -27,6 +21,7 @@ Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de 
 ### 🚀 Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)

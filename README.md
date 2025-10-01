@@ -9,12 +9,12 @@
 Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la tecnología, los viajes ✈️ y descubrir nuevas metas personales y profesionales.
 
 🔧 Me estoy formando en:  
-`Java` • `Python` • `HTML5` • `CSS3` • `Terraform` • `Azure` • `Git`
+`Java` • `Python` • `HTML5` • `CSS3` • `JavaScript`• `Terraform` • `Azure` • `Git`
 
 💼 Experiencia previa en:
 - Infraestructura Cloud (prácticas con Terraform & Azure)
-- Higiene Bucodental y atención al cliente
-- Gestión de eventos (incluyendo viajes organizados a Japón 🇯🇵)
+- Atención al cliente y gestión de equipos en el sector sanitario.
+- Gestión de eventos (incluyendo viajes organizados 🇯🇵)
 
 ---
 
@@ -24,10 +24,12 @@ Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 

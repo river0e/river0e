@@ -1,14 +1,15 @@
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/river0e/river0e/blob/main/Banner%20Offline.png?raw=true" 
+  <img src="https://raw.githubusercontent.com/river0e/river0e/main/Baanner.png" 
        alt="Banner MJ Castro" 
        style="width:100%; border-radius: 8px;" />
 </p>
 
 ---
 
-### 👋 ¡Hola! Soy **María J. Castro**
-Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la tecnología, los viajes ✈️ y descubrir nuevas metas personales y profesionales.
+### ¡Hola! Soy **María J. Castro**
+Desarrolladora en formación, creativa y curiosa. Actualmente curso el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la tecnología, los viajes y descubrir nuevas metas personales y profesionales.
 
 🔧 Me estoy formando en:  
 `Java` • `Python` • `HTML5` • `CSS3` • `JavaScript`• `Terraform` • `Azure` • `Git`

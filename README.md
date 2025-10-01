@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/river0e/river0e/blob/main/Banner%20Offline.png?raw=true" alt="Banner MJ Castro" style="width:100%; border-radius: 8px;" />
+  <img src="https://github.com/river0e/river0e/blob/main/Banner%20Offline.png?raw=true" 
+       alt="Banner MJ Castro" 
+       style="width:100%; border-radius: 8px;" />
 </p>
 
 ---
